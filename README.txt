@@ -1,1 +1,1 @@
-Simple ontology to schema converter.
+Simple OWL to SQL converter.
